@@ -548,9 +548,7 @@ The dataset is **synthetic and very small** (12 month-end summary records). Summ
 
 | Item | Detail |
 |------|--------|
-| 🔗 **Video URL** | `[Paste your unlisted YouTube / Google Drive link here]` |
-| ⏱️ **Duration** | `[mm:ss]` |
-| 👁️ **Access** | Anyone with the link can view |
+| 🔗 **Video URL** | `(https://drive.google.com/drive/folders/1_Z5a2zNBwj9MkrCd3WU6xBc10Fl8y1-h)` |
 
 ---
 
